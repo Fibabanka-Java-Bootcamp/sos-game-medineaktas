@@ -121,7 +121,6 @@ public class Main {
         return tableIsCheck = bordTable.tableIsCheck();
 
     }
-
     public static int  controlSize(){
         Scanner scan = new Scanner(System.in);
         int size = 0;
